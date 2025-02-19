@@ -1,0 +1,7 @@
+* {
+  /*초기화코드 웹페이지 제작시 기본으로 드어가는 코드*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url();
+}
